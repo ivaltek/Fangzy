@@ -1,6 +1,5 @@
 body {
 	font-family: 'Exo 2', sans-serif;
-	text-align: left;
     margin: 0;
     padding: 0;
 	width: 100%;
@@ -27,27 +26,4 @@ body {
     height: 100%;
     width: 100%;
     z-index: 1;
-}
-
-header ul {
-	display: inline;
-	width: 100%;
-	list-style-type: none;
-	font-size: 20pt;
-	color: rgb(255, 255, 255);
-	margin: 0;
-	padding: 0;
-}
-header li {
-	color: inherit;
-	display: inline-block;
-}
-header {
-	width: 100%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	position: absolute;
-	color: inherit;
-	z-index: 10;
-	top: 50%;
 }
