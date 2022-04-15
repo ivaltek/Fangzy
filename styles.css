@@ -16,14 +16,13 @@ header ul {
 	width: 100%;
 	list-style-type: none;
 	font-size: 20pt;
-	color: rgba(0, 0, 0, 0.0);
+	color: rgb(255, 255, 255);
 	margin: 0;
 	padding: 0;
 }
 header li {
 	color: inherit;
 	display: inline-block;
-	padding: 8px 16px;
 }
 header {
 	width: 100%;
